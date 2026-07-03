@@ -4,17 +4,9 @@
  */
 package vendasp3;
 
-/**
- *
- * @author USER
- */
 public class Vendasp3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Sistema VendasP3 iniciado com sucesso!");
     }
-    
 }
